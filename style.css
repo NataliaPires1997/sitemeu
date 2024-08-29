@@ -1,0 +1,27 @@
+  
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+text-decoration: none;
+}
+
+body{
+font-size: 15px;
+background-image: url(../Natalia/imagens/fundo.jpeg);
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center center ;
+}
+.principal_cabeçalho{
+display: flex;
+direction: row;
+justify-content: space-around;
+}
+.principal_corpo{
+display: flex;
+justify-content: center;
+
+}
+
+
